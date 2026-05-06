@@ -1,0 +1,3 @@
+{
+  "buildCommand": "tsc --noEmit false --allowJs true && vite build"
+}
