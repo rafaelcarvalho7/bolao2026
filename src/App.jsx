@@ -20,7 +20,7 @@ const GROUPS = {
 const FLAGS = {
   México:"🇲🇽","África do Sul":"🇿🇦","Coreia do Sul":"🇰🇷","Rep. Tcheca":"🇨🇿",
   Canadá:"🇨🇦",Bósnia:"🇧🇦",Catar:"🇶🇦",Suíça:"🇨🇭",
-  Brasil:"🇧🇷",Marrocos:"🇲🇦",Haiti:"🇭🇹",Escócia:"ES",
+  Brasil:"🇧🇷",Marrocos:"🇲🇦",Haiti:"🇭🇹",Escócia:"🟦",
   "Estados Unidos":"🇺🇸",Paraguai:"🇵🇾",Austrália:"🇦🇺",Turquia:"🇹🇷",
   Alemanha:"🇩🇪",Curaçao:"🇨🇼","Costa do Marfim":"🇨🇮",Equador:"🇪🇨",
   Holanda:"🇳🇱",Japão:"🇯🇵",Suécia:"🇸🇪",Tunísia:"🇹🇳",
@@ -29,7 +29,7 @@ const FLAGS = {
   França:"🇫🇷",Senegal:"🇸🇳",Iraque:"🇮🇶",Noruega:"🇳🇴",
   Argentina:"🇦🇷",Argélia:"🇩🇿",Áustria:"🇦🇹",Jordânia:"🇯🇴",
   Portugal:"🇵🇹","RD Congo":"🇨🇩",Uzbequistão:"🇺🇿",Colômbia:"🇨🇴",
-  Inglaterra:"󠁧󠁢󠁥IN",Croácia:"🇭🇷",Gana:"🇬🇭",Panamá:"🇵🇦",
+  Inglaterra:"󠁧󠁢󠁥🇬🇧",Croácia:"🇭🇷",Gana:"🇬🇭",Panamá:"🇵🇦",
 };
 
 const KO_ROUNDS = [
