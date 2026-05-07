@@ -298,7 +298,7 @@ export default function App(){
     <div className="land">
       <div className="li">
         <div className="ta">🏆</div>
-        <h1>BOLÃO<br/><span>Copa 2026</span></h1>
+        <h1>BOLÃO CYBER<br/><span>Copa 2026</span></h1>
         <div className="pills"><span>48 seleções</span><span>12 grupos A–L</span><span>104 jogos</span></div>
         <p>EUA · Canadá · México — 11 jun a 19 jul 2026</p>
         <button className="nb" onClick={openLogin}>Entrar nos palpites →</button>
@@ -313,7 +313,7 @@ export default function App(){
     <div className="land">
       <div className="li">
         <div className="ta">🏆</div>
-        <h1>BOLÃO<br/><span>Copa 2026</span></h1>
+        <h1>BOLÃO CYBER<br/><span>Copa 2026</span></h1>
         <p>Selecione seu nome e digite seu PIN</p>
         {loadingList
           ?<p className="ap">Carregando lista...</p>
