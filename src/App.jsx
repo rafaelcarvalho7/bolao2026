@@ -18,7 +18,7 @@ const GROUPS = {
 };
 
 const FLAGS = {
-  México:"🇲🇽","África do Sul":"🇿🇦","Coreia do Sul":"🇰🇷","Rep. Tcheca":"🇨🇿",
+  México:"🇲🇽","África do Sul":"🇿🇦","Coreia do Sul":"🇰🇷","Tchecia":"🇨🇿",
   Canadá:"🇨🇦",Bósnia:"🇧🇦",Catar:"🇶🇦",Suíça:"🇨🇭",
   Brasil:"🇧🇷",Marrocos:"🇲🇦",Haiti:"🇭🇹",Escócia:"🟦",
   "Estados Unidos":"🇺🇸",Paraguai:"🇵🇾",Austrália:"🇦🇺",Turquia:"🇹🇷",
